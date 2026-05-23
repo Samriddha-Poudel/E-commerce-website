@@ -180,3 +180,28 @@ background-color:var(--primary-color);
 font-size:1.2rem;
 color:var(--text-light);
 }
+
+
+.deals-container{
+    display:grid;
+    gap:2rem;
+
+}
+
+.deals-card  span{
+    display:inline-block;
+    margin-bottom:0.7rem;
+    font-size:2rem;
+
+}
+
+.deals-card h4{
+    margin-bottom:0.5rem;
+    font-size:1.3rem;
+    color:var(--text-dark);
+}
+
+
+.deals-card p{
+    color:var(--text-light);
+}
