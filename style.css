@@ -17,6 +17,10 @@
     --header-font:"Roboto", sans-serif;
 }
 
+
+html{
+    scroll-behavior:smooth;
+}
 .section-container{
 max-width:var(--max-width);
 margin:auto;
@@ -67,7 +71,7 @@ ul{
 }
 
 body{
-    scroll-behavior:smooth;
+   
     font-family:"Roboto", sans-serif;
 
 }
