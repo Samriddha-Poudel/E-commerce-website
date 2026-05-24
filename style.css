@@ -561,5 +561,19 @@ margin-top:1rem;
 
     .nav-search input{
         padding-block:5px;
+        outline:none;
+        border:none; 
+         width:0;  
+        font-size:1rem;
+        color:var(--text-dark);
+        border-bottom:1px solid var(--text-light);
+        transition:0.3s;
+        
+    }
+
+
+    .nav-search.open input{
+        width:100%;
+        max-width:15rem;
     }
 }
