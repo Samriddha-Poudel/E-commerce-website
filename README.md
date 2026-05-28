@@ -9,5 +9,11 @@ desktop.
 - CSS: CSS is used in this website to style the HTML elements and make the website look interactive also it is used to make it responsive .
 - JS: JS is used in this website for handling the menu icon , search bar toggle and auto sliding in the client section.
 
+# Note:
+This was mine starting project that i have deplyod in beest i have deplyod all of mine project through netlify which i have sumbited and my free trail of netlify has been full of limit so my website is down in netlify so i have uploaded it from github pages so you can cehck it out from here .
+
+
+
+
 ## How to use:
-To use this website you just have to visit https://everest-furniture-samriddha.netlify.app/ and all set .
+To use this website you just have to visit https://samriddha-poudel.github.io/E-commerce-website/ and all set .
